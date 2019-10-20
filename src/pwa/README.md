@@ -1,0 +1,3 @@
+registerServiceWorker：用于注册server-worker文件
+
+runtimeCaching：workbox的缓存策略，用于缓存指定类型的文件。
